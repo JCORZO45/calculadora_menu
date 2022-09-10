@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculadora_menu
 
 # CALCULADORA BÁSICA CON MENU
@@ -11,3 +12,5 @@ Una calculadora básica se puede realizar con condiciones.  Se desea realizar al
     * En el caso de la división, si `y = 0`, NO se puede realizar la división, se muestra un mensaje y se hace `bandera = True`.
     * En el caso del logaritmo, si `x <= 0`, NO se puede calcular el logaritmo, se muestra un mensaje y se hace *bandera = True*.
 5. Se muestra el resultado en el caso de que `bandera = False`.
+=======
+>>>>>>> 48c5ed31e2a857e32e0093ff9fd665e102b5618e
